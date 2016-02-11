@@ -1,0 +1,33 @@
+_repo: Passeggiate-per-l-Italia-vol-5_49062
+contributor:
+  translator:
+    agent_name: Corsi, Mario
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '34267'
+    url: http://www.gutenberg.org/2009/agents/34267
+creator:
+  author:
+    agent_name: Gregorovius, Ferdinand
+    aliases:
+    - Gregorovius, Ferdinando
+    - Gregorovius, Ferdinand Adolf
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '9530'
+    url: http://www.gutenberg.org/2009/agents/9530
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2015-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49062'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'DG'
+title: Passeggiate per l'Italia, vol. 5
+url: http://www.gutenberg.org/ebooks/49062
